@@ -15,6 +15,6 @@ func sumar(v int, c int) int {
 	return v + c
 }
 
-func restar(a int, b int) int {
-	return a - b
-}
+// func restar(a int, b int) int {
+// 	return a - b
+// }
